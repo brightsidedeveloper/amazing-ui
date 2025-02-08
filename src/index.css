@@ -11,15 +11,11 @@
 }
 
 html {
-  min-height: 100dvh;
   color: white;
-}
-
-body {
-  height: 100%;
 }
 
 html,
 body {
+  min-height: 100dvh;
   background-color: var(--color-gray-900, currentColor);
 }
